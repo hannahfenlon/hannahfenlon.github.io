@@ -1,0 +1,22 @@
+body {
+  font-family: 'Libre Baskerville', serif;
+}
+
+
+p {
+  font-family: 'Major Mono Display', monospace;
+  font-size: 20px;
+  color: blue;
+
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 40px;
+  color: purple;
+}
+
+a {
+  font-family: 'Major Mono Display', monospace;
+  color: blue;
+}
